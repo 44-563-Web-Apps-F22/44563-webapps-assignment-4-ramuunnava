@@ -15,10 +15,45 @@
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
   }
-  .name:hover {
-    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
-    
- 
+.name {
+        color: black;
+         font-size: medium;
+         font-family: 'Courier New', Courier, monospace;
+       }
+       .name:hover {
+        text-shadow: 0 0 2px #FF0000, 0 0 3px #0000FF;
+         
+  }
+  .BUT {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .CAPT {
+    color: red;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .JOSEPH {
+    color: red;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .JOS {
+    color: red;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .CREW {
+    color: red;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .RALPH {
+    color: red;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
    .SONG {
     color: yellow;
      font-size: medium;
@@ -47,5 +82,28 @@
     background-color: greenyellow;
 }
 .TABLE td {
-    background-color: azure;
+    background-color:cornsilk ;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: blueviolet;
+  }
