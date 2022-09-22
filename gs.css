@@ -1,0 +1,57 @@
+
+  .direction {
+   color: black;
+   font-size: medium;
+   background-color: aquamarine;
+   
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .direction:hover {
+    color: red;
+    background-color: antiquewhite;
+  }
+  .name {
+   color: black;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .BUT {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .CAPT {
+    color: green;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .JOSEPH {
+    color: green;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .JOS {
+    color: green;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .CREW {
+    color: green;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .RALPH {
+    color: green;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .SONG {
+    color: yellow;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .SPEECH {
+    color: brown;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
