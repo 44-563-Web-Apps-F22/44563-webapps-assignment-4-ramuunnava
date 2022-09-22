@@ -15,36 +15,10 @@
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
   }
-  .BUT {
-    color: black;
-     font-size: medium;
-     font-family: 'Courier New', Courier, monospace;
-   }
-   .CAPT {
-    color: green;
-     font-size: medium;
-     font-family: 'Courier New', Courier, monospace;
-   }
-   .JOSEPH {
-    color: green;
-     font-size: medium;
-     font-family: 'Courier New', Courier, monospace;
-   }
-   .JOS {
-    color: green;
-     font-size: medium;
-     font-family: 'Courier New', Courier, monospace;
-   }
-   .CREW {
-    color: green;
-     font-size: medium;
-     font-family: 'Courier New', Courier, monospace;
-   }
-   .RALPH {
-    color: green;
-     font-size: medium;
-     font-family: 'Courier New', Courier, monospace;
-   }
+  .name:hover {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    
+ 
    .SONG {
     color: yellow;
      font-size: medium;
@@ -55,3 +29,23 @@
      font-size: medium;
      font-family: 'Courier New', Courier, monospace;
    }
+   .TABLE th, td {
+    color: black;
+     font-size: medium;
+     text-align: center;
+     background-color: lightgrey;
+     width: 100px;
+     border: 3px solid green;
+     padding:10px;
+     margin: 10px;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .TABLE th:hover {
+        background-color: aqua;
+   }
+   .TABLE th {
+    background-color: greenyellow;
+}
+.TABLE td {
+    background-color: azure;
+}
